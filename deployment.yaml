@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: express-app
-        image: demo-app:5.0.0
+        image: demo-app:7.0.0
         ports:
         - containerPort: 3000
 
