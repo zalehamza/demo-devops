@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: express-app
-        image: fraud:10.0.0
+        image: fraud:3.0.0
         ports:
         - containerPort: 3000
 
